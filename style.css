@@ -1,4 +1,13 @@
 h1{
+<<<<<<< HEAD
     background-color: red;
     color: blue;
+=======
+    color:black;
+    background-color: aliceblue;
+}
+
+p{
+    text-decoration: underline;
+>>>>>>> feature2
 }
